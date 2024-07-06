@@ -1,0 +1,288 @@
+D:\sms\sms\bin\Debug\sms.exe.config
+D:\sms\sms\bin\Debug\sms.exe
+D:\sms\sms\bin\Debug\sms.pdb
+D:\sms\sms\obj\Debug\sms.csproj.AssemblyReference.cache
+D:\sms\sms\obj\Debug\sms.csproj.SuggestedBindingRedirects.cache
+D:\sms\sms\obj\Debug\sms.Properties.Resources.resources
+D:\sms\sms\obj\Debug\sms.csproj.GenerateResource.cache
+D:\sms\sms\obj\Debug\sms.csproj.CoreCompileInputs.cache
+D:\sms\sms\obj\Debug\sms.exe
+D:\sms\sms\obj\Debug\sms.pdb
+D:\sms\sms\obj\Debug\sms.Home.resources
+D:\sms\sms\obj\Debug\sms.inputData.resources
+D:\sms\sms\obj\Debug\sms.send_message.resources
+D:\sms\sms\obj\Debug\sms.Contact_info.resources
+D:\sms\sms\obj\Debug\sms.login.resources
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\sms.exe.config
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\sms.exe
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\sms.pdb
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\MySqlConnector.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\Google.Protobuf.pdb
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\MySqlConnector.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\System.IO.Pipelines.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\obj\Debug\sms.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\sms_1\sms\sms\obj\Debug\sms.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\sms_1\sms\sms\obj\Debug\sms.Contact_info.resources
+C:\Users\HP\Desktop\sms_1\sms\sms\obj\Debug\sms.login.resources
+C:\Users\HP\Desktop\sms_1\sms\sms\obj\Debug\sms.Home.resources
+C:\Users\HP\Desktop\sms_1\sms\sms\obj\Debug\sms.inputData.resources
+C:\Users\HP\Desktop\sms_1\sms\sms\obj\Debug\sms.Properties.Resources.resources
+C:\Users\HP\Desktop\sms_1\sms\sms\obj\Debug\sms.send_message.resources
+C:\Users\HP\Desktop\sms_1\sms\sms\obj\Debug\sms.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\sms_1\sms\sms\obj\Debug\sms.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\sms_1\sms\sms\obj\Debug\sms.csproj.CopyComplete
+C:\Users\HP\Desktop\sms_1\sms\sms\obj\Debug\sms.exe
+C:\Users\HP\Desktop\sms_1\sms\sms\obj\Debug\sms.pdb
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\sms.exe.config
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\sms.exe
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\sms.pdb
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\MySqlConnector.dll
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\Google.Protobuf.pdb
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\MySqlConnector.xml
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\System.IO.Pipelines.xml
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\obj\Debug\sms.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\obj\Debug\sms.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\obj\Debug\sms.Contact_info.resources
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\obj\Debug\sms.login.resources
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\obj\Debug\sms.Home.resources
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\obj\Debug\sms.inputData.resources
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\obj\Debug\sms.Properties.Resources.resources
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\obj\Debug\sms.send_message.resources
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\obj\Debug\sms.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\obj\Debug\sms.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\obj\Debug\sms.csproj.CopyComplete
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\obj\Debug\sms.exe
+C:\Users\HP\Desktop\New folder\sms_1\sms\sms\obj\Debug\sms.pdb
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\sms.exe.config
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\sms.exe
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\sms.pdb
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\MySqlConnector.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\System.IO.Pipelines.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\Google.Protobuf.pdb
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\MySqlConnector.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\System.IO.Pipelines.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\obj\Debug\sms.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\obj\Debug\sms.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\obj\Debug\sms.Contact_info.resources
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\obj\Debug\sms.example.resources
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\obj\Debug\sms.login.resources
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\obj\Debug\sms.Home.resources
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\obj\Debug\sms.inputData.resources
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\obj\Debug\sms.Properties.Resources.resources
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\obj\Debug\sms.send_message.resources
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\obj\Debug\sms.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\obj\Debug\sms.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\obj\Debug\sms.csproj.CopyComplete
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\obj\Debug\sms.exe
+C:\Users\HP\Desktop\sms_1\sms\sms\sms\obj\Debug\sms.pdb
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\sms.exe.config
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\sms.exe
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\sms.pdb
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\BouncyCastle.Crypto.dll
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\Google.Protobuf.dll
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\K4os.Compression.LZ4.dll
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\K4os.Hash.xxHash.dll
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\MySql.Data.dll
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\MySqlConnector.dll
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\System.Buffers.dll
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\System.IO.Pipelines.dll
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\System.Memory.dll
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\BouncyCastle.Crypto.xml
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\Google.Protobuf.pdb
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\Google.Protobuf.xml
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\K4os.Compression.LZ4.xml
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\K4os.Hash.xxHash.xml
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\MySql.Data.xml
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\MySqlConnector.xml
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\System.Buffers.xml
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\System.IO.Pipelines.xml
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\System.Memory.xml
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\sms_1\sms\Final Project\sms\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projects\sms_1\sms\Final Project\sms\obj\Debug\sms.csproj.AssemblyReference.cache
+D:\Projects\sms_1\sms\Final Project\sms\obj\Debug\sms.csproj.SuggestedBindingRedirects.cache
+D:\Projects\sms_1\sms\Final Project\sms\obj\Debug\sms.Contact_info.resources
+D:\Projects\sms_1\sms\Final Project\sms\obj\Debug\sms.example.resources
+D:\Projects\sms_1\sms\Final Project\sms\obj\Debug\sms.login.resources
+D:\Projects\sms_1\sms\Final Project\sms\obj\Debug\sms.Home.resources
+D:\Projects\sms_1\sms\Final Project\sms\obj\Debug\sms.inputData.resources
+D:\Projects\sms_1\sms\Final Project\sms\obj\Debug\sms.Properties.Resources.resources
+D:\Projects\sms_1\sms\Final Project\sms\obj\Debug\sms.send_message.resources
+D:\Projects\sms_1\sms\Final Project\sms\obj\Debug\sms.csproj.GenerateResource.cache
+D:\Projects\sms_1\sms\Final Project\sms\obj\Debug\sms.csproj.CoreCompileInputs.cache
+D:\Projects\sms_1\sms\Final Project\sms\obj\Debug\sms.csproj.CopyComplete
+D:\Projects\sms_1\sms\Final Project\sms\obj\Debug\sms.exe
+D:\Projects\sms_1\sms\Final Project\sms\obj\Debug\sms.pdb
+D:\Final Project\Final Project\sms\bin\Debug\sms.exe.config
+D:\Final Project\Final Project\sms\bin\Debug\sms.exe
+D:\Final Project\Final Project\sms\bin\Debug\sms.pdb
+D:\Final Project\Final Project\sms\bin\Debug\BouncyCastle.Crypto.dll
+D:\Final Project\Final Project\sms\bin\Debug\Google.Protobuf.dll
+D:\Final Project\Final Project\sms\bin\Debug\K4os.Compression.LZ4.dll
+D:\Final Project\Final Project\sms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Final Project\Final Project\sms\bin\Debug\K4os.Hash.xxHash.dll
+D:\Final Project\Final Project\sms\bin\Debug\MySql.Data.dll
+D:\Final Project\Final Project\sms\bin\Debug\MySqlConnector.dll
+D:\Final Project\Final Project\sms\bin\Debug\System.Buffers.dll
+D:\Final Project\Final Project\sms\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Final Project\Final Project\sms\bin\Debug\System.IO.Pipelines.dll
+D:\Final Project\Final Project\sms\bin\Debug\System.Memory.dll
+D:\Final Project\Final Project\sms\bin\Debug\System.Numerics.Vectors.dll
+D:\Final Project\Final Project\sms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Final Project\Final Project\sms\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Final Project\Final Project\sms\bin\Debug\BouncyCastle.Crypto.xml
+D:\Final Project\Final Project\sms\bin\Debug\Google.Protobuf.pdb
+D:\Final Project\Final Project\sms\bin\Debug\Google.Protobuf.xml
+D:\Final Project\Final Project\sms\bin\Debug\K4os.Compression.LZ4.xml
+D:\Final Project\Final Project\sms\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Final Project\Final Project\sms\bin\Debug\K4os.Hash.xxHash.xml
+D:\Final Project\Final Project\sms\bin\Debug\MySql.Data.xml
+D:\Final Project\Final Project\sms\bin\Debug\MySqlConnector.xml
+D:\Final Project\Final Project\sms\bin\Debug\System.Buffers.xml
+D:\Final Project\Final Project\sms\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Final Project\Final Project\sms\bin\Debug\System.IO.Pipelines.xml
+D:\Final Project\Final Project\sms\bin\Debug\System.Memory.xml
+D:\Final Project\Final Project\sms\bin\Debug\System.Numerics.Vectors.xml
+D:\Final Project\Final Project\sms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Final Project\Final Project\sms\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Final Project\Final Project\sms\obj\Debug\sms.csproj.AssemblyReference.cache
+D:\Final Project\Final Project\sms\obj\Debug\sms.csproj.SuggestedBindingRedirects.cache
+D:\Final Project\Final Project\sms\obj\Debug\sms.Contact_info.resources
+D:\Final Project\Final Project\sms\obj\Debug\sms.example.resources
+D:\Final Project\Final Project\sms\obj\Debug\sms.login.resources
+D:\Final Project\Final Project\sms\obj\Debug\sms.Home.resources
+D:\Final Project\Final Project\sms\obj\Debug\sms.inputData.resources
+D:\Final Project\Final Project\sms\obj\Debug\sms.Properties.Resources.resources
+D:\Final Project\Final Project\sms\obj\Debug\sms.send_message.resources
+D:\Final Project\Final Project\sms\obj\Debug\sms.csproj.GenerateResource.cache
+D:\Final Project\Final Project\sms\obj\Debug\sms.csproj.CoreCompileInputs.cache
+D:\Final Project\Final Project\sms\obj\Debug\sms.csproj.CopyComplete
+D:\Final Project\Final Project\sms\obj\Debug\sms.exe
+D:\Final Project\Final Project\sms\obj\Debug\sms.pdb
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\sms.exe.config
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\sms.exe
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\sms.pdb
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\BouncyCastle.Crypto.dll
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\Google.Protobuf.dll
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\K4os.Compression.LZ4.dll
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\K4os.Hash.xxHash.dll
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\MySql.Data.dll
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\MySqlConnector.dll
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\System.Buffers.dll
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\System.IO.Pipelines.dll
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\System.Memory.dll
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\System.Numerics.Vectors.dll
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\BouncyCastle.Crypto.xml
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\Google.Protobuf.pdb
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\Google.Protobuf.xml
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\K4os.Compression.LZ4.xml
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\K4os.Hash.xxHash.xml
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\MySql.Data.xml
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\MySqlConnector.xml
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\System.Buffers.xml
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\System.IO.Pipelines.xml
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\System.Memory.xml
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\System.Numerics.Vectors.xml
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\obj\Debug\sms.csproj.AssemblyReference.cache
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\obj\Debug\sms.Contact_info.resources
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\obj\Debug\sms.example.resources
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\obj\Debug\sms.login.resources
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\obj\Debug\sms.Home.resources
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\obj\Debug\sms.inputData.resources
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\obj\Debug\sms.Properties.Resources.resources
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\obj\Debug\sms.send_message.resources
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\obj\Debug\sms.csproj.GenerateResource.cache
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\obj\Debug\sms.csproj.CoreCompileInputs.cache
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\obj\Debug\sms.csproj.Up2Date
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\obj\Debug\sms.exe
+E:\Docs\nibm\DSE\Final Project\Final Project\sms\obj\Debug\sms.pdb

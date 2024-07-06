@@ -1,0 +1,223 @@
+﻿namespace sms
+{
+    partial class Home
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Home));
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.inputData1 = new sms.inputData();
+            this.contact_info1 = new sms.Contact_info();
+            this.example1 = new sms.example();
+            this.send_message1 = new sms.send_message();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.Black;
+            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.Green;
+            this.button1.FlatAppearance.BorderSize = 4;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Microsoft YaHei", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Location = new System.Drawing.Point(12, 158);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(272, 60);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "Input Data";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.Black;
+            this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button2.FlatAppearance.BorderColor = System.Drawing.Color.Green;
+            this.button2.FlatAppearance.BorderSize = 5;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Font = new System.Drawing.Font("Microsoft YaHei", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.ForeColor = System.Drawing.Color.White;
+            this.button2.Location = new System.Drawing.Point(12, 41);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(272, 60);
+            this.button2.TabIndex = 0;
+            this.button2.Text = "Send Message";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.Black;
+            this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button3.FlatAppearance.BorderColor = System.Drawing.Color.Green;
+            this.button3.FlatAppearance.BorderSize = 4;
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button3.Font = new System.Drawing.Font("Microsoft YaHei", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.ForeColor = System.Drawing.Color.White;
+            this.button3.Location = new System.Drawing.Point(12, 280);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(272, 60);
+            this.button3.TabIndex = 0;
+            this.button3.Text = "Template";
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // button4
+            // 
+            this.button4.BackColor = System.Drawing.Color.Black;
+            this.button4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button4.FlatAppearance.BorderColor = System.Drawing.Color.Green;
+            this.button4.FlatAppearance.BorderSize = 4;
+            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button4.Font = new System.Drawing.Font("Microsoft YaHei", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button4.ForeColor = System.Drawing.Color.White;
+            this.button4.Location = new System.Drawing.Point(12, 403);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(272, 60);
+            this.button4.TabIndex = 0;
+            this.button4.Text = "Contact Info";
+            this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
+            // 
+            // button5
+            // 
+            this.button5.BackColor = System.Drawing.Color.Black;
+            this.button5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button5.FlatAppearance.BorderColor = System.Drawing.Color.Green;
+            this.button5.FlatAppearance.BorderSize = 4;
+            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button5.Font = new System.Drawing.Font("Microsoft YaHei", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.ForeColor = System.Drawing.Color.White;
+            this.button5.Location = new System.Drawing.Point(12, 524);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(272, 60);
+            this.button5.TabIndex = 0;
+            this.button5.Text = "Log out";
+            this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(550, 219);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(669, 462);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 1;
+            this.pictureBox1.TabStop = false;
+            // 
+            // inputData1
+            // 
+            this.inputData1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.inputData1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("inputData1.BackgroundImage")));
+            this.inputData1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.inputData1.Location = new System.Drawing.Point(290, 0);
+            this.inputData1.Name = "inputData1";
+            this.inputData1.Size = new System.Drawing.Size(865, 659);
+            this.inputData1.TabIndex = 3;
+            // 
+            // contact_info1
+            // 
+            this.contact_info1.BackColor = System.Drawing.Color.Transparent;
+            this.contact_info1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("contact_info1.BackgroundImage")));
+            this.contact_info1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.contact_info1.ForeColor = System.Drawing.Color.Transparent;
+            this.contact_info1.Location = new System.Drawing.Point(284, 0);
+            this.contact_info1.Name = "contact_info1";
+            this.contact_info1.Size = new System.Drawing.Size(869, 659);
+            this.contact_info1.TabIndex = 2;
+            // 
+            // example1
+            // 
+            this.example1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("example1.BackgroundImage")));
+            this.example1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.example1.Location = new System.Drawing.Point(288, 4);
+            this.example1.Name = "example1";
+            this.example1.Size = new System.Drawing.Size(865, 637);
+            this.example1.TabIndex = 4;
+            this.example1.Load += new System.EventHandler(this.example1_Load);
+            // 
+            // send_message1
+            // 
+            this.send_message1.BackColor = System.Drawing.SystemColors.ControlText;
+            this.send_message1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("send_message1.BackgroundImage")));
+            this.send_message1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.send_message1.Location = new System.Drawing.Point(288, 8);
+            this.send_message1.Name = "send_message1";
+            this.send_message1.Size = new System.Drawing.Size(865, 634);
+            this.send_message1.TabIndex = 5;
+            // 
+            // Home
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(1153, 653);
+            this.Controls.Add(this.send_message1);
+            this.Controls.Add(this.example1);
+            this.Controls.Add(this.inputData1);
+            this.Controls.Add(this.contact_info1);
+            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.button5);
+            this.Controls.Add(this.button4);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Name = "Home";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Home";
+            this.Load += new System.EventHandler(this.Home_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private Contact_info contact_info1;
+        private inputData inputData1;
+        private example example1;
+        private send_message send_message1;
+    }
+}

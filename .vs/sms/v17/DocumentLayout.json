@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|e:\\docs\\nibm\\dse\\final project\\final project\\sms\\send_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|solutionrelative:sms\\send_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\send_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|solutionrelative:sms\\send_message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|solutionrelative:sms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|solutionrelative:sms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|solutionrelative:sms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|solutionrelative:sms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|solutionrelative:sms\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Desktop\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\contact_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|solutionrelative:sms\\contact_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|solutionrelative:sms\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\contact_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|solutionrelative:sms\\contact_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\inputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|solutionrelative:sms\\inputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\inputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|solutionrelative:sms\\inputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\contact_info.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|solutionrelative:sms\\contact_info.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66359813-C62C-49B7-8C96-D212337118FD}|sms\\sms.csproj|solutionrelative:sms\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.cs",
+              "DocumentMoniker": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\login.cs",
+              "RelativeDocumentMoniker": "sms\\login.cs",
+              "ToolTip": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\login.cs",
+              "RelativeToolTip": "sms\\login.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAMwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:58:37.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\login.cs",
+              "RelativeDocumentMoniker": "sms\\login.cs",
+              "ToolTip": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\login.cs [Design]",
+              "RelativeToolTip": "sms\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:57:50.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact_info.cs [Design]",
+              "DocumentMoniker": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\Contact_info.cs",
+              "RelativeDocumentMoniker": "sms\\Contact_info.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\Final Project\\sms\\Contact_info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-07-06T07:57:50.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "send_message.cs [Design]",
+              "DocumentMoniker": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\send_message.cs",
+              "RelativeDocumentMoniker": "sms\\send_message.cs",
+              "ToolTip": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\send_message.cs [Design]",
+              "RelativeToolTip": "sms\\send_message.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:57:50.569Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "send_message.cs",
+              "DocumentMoniker": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\send_message.cs",
+              "RelativeDocumentMoniker": "sms\\send_message.cs",
+              "ToolTip": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\send_message.cs",
+              "RelativeToolTip": "sms\\send_message.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIA0wCsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:57:50.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cs",
+              "DocumentMoniker": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\Home.cs",
+              "RelativeDocumentMoniker": "sms\\Home.cs",
+              "ToolTip": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\Home.cs",
+              "RelativeToolTip": "sms\\Home.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:57:50.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\Home.cs",
+              "RelativeDocumentMoniker": "sms\\Home.cs",
+              "ToolTip": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\Home.cs [Design]",
+              "RelativeToolTip": "sms\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:57:50.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\packages.config",
+              "RelativeDocumentMoniker": "sms\\packages.config",
+              "ToolTip": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\packages.config",
+              "RelativeToolTip": "sms\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-06T07:58:30.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\login.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\login.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-05T17:07:34.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "example.cs [Design]",
+              "DocumentMoniker": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\example.cs",
+              "RelativeDocumentMoniker": "sms\\example.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\sms_1\\sms\\sms\\sms\\example.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-07-06T07:57:50.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact_info.cs",
+              "DocumentMoniker": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\Contact_info.cs",
+              "RelativeDocumentMoniker": "sms\\Contact_info.cs",
+              "ToolTip": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\Contact_info.cs",
+              "RelativeToolTip": "sms\\Contact_info.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAYwJ4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-07-06T07:57:50.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "inputData.cs [Design]",
+              "DocumentMoniker": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\inputData.cs",
+              "RelativeDocumentMoniker": "sms\\inputData.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\sms_1\\sms\\sms\\inputData.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-07-06T07:57:50.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "inputData.cs",
+              "DocumentMoniker": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\inputData.cs",
+              "RelativeDocumentMoniker": "sms\\inputData.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\sms_1\\sms\\sms\\inputData.cs*",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-07-06T07:57:50.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contact_info.Designer.cs",
+              "DocumentMoniker": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\Contact_info.Designer.cs",
+              "RelativeDocumentMoniker": "sms\\Contact_info.Designer.cs",
+              "ToolTip": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\Contact_info.Designer.cs",
+              "RelativeToolTip": "sms\\Contact_info.Designer.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAwE0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-07-06T07:57:50.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\Class1.cs",
+              "RelativeDocumentMoniker": "sms\\Class1.cs",
+              "ToolTip": "E:\\Docs\\nibm\\DSE\\Final Project\\Final Project\\sms\\Class1.cs",
+              "RelativeToolTip": "sms\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T07:57:50.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
